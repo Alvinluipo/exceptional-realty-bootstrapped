@@ -1,3 +1,3 @@
 # Exceptional Realty Website (Bootstrapped Version)
 
-This is an example website using the Twitter Bootstrap v3 framework. More information on using Bootstrap can be found at: [gETBOOTSTRAP.COM](HTTP://getbootstrap.com)
+This is an example website using the Twitter Bootstrap v3 framework. More information on using Bootstrap can be found at: [GETBOOTSTRAP.COM](HTTP://getbootstrap.com)
